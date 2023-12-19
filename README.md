@@ -1,4 +1,4 @@
-# image-encryption
+# Imcrypt
 
 A CLI that encrypts and decrypts png, jpg, jpeg images to a gibberish image and provides you the key to unlock it later so that you have the complete control of your images.
 
